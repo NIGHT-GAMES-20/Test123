@@ -1,0 +1,30 @@
+{
+    "name": "my-vercel-app",
+    "version": "1.0.0",
+    "description": "A simple app with backend and frontend on Vercel",
+    "main": "api/server.js",
+    "scripts": {
+        "start": "node api/server.js",
+        "dev": "nodemon api/server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NIGHT-GAMES-20/Test123.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NIGHT-GAMES-20/Test123/issues"
+    },
+    "homepage": "https://github.com/NIGHT-GAMES-20/Test123#readme"
+}
